@@ -1,0 +1,106 @@
+{
+    "pokemons":
+    {
+        "pokemon":
+            [
+                {
+                    "id": "0025",
+                    "nom": "Pikachu",
+                    "tipus": "eléctric",
+                    "pes": "6.0 kg",
+                    "altura": "0,4m",
+                    "estadistiques": 
+                    {
+                        "velocitat": 4,
+                        "fortalesa": 4,
+                        "precisió": 4,
+                        "resistència": 4
+                    },
+                    "moviments":
+                    [
+                        {
+                            "nom": "Trueno",
+                            "descripció": "movimiento de tipo elèctrico",
+                            "potència": 120,
+                            "contacte": "no"
+                        },
+                        {
+                            "nom": "Beso dulce",
+                            "descripció": "movimiento de tipo hada",
+                            "potència": null,
+                            "contacte": "no" 
+                        },
+                        {
+                            "nom": "Látigo",
+                            "descripció": "movimiento de tipo normal",
+                            "potència": null,
+                            "contacte": "no"
+                        }
+                    ],
+                    "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/7/77/latest/20150621181250/Pikachu.png",
+                    "evolucions":
+                    [
+                        {
+                            "id": "0026",
+                            "nom": "Raichu",
+                            "nivell": "42"
+                        },
+                        {
+                            "id": "0026",
+                            "nom": "Raichu de Alola",
+                            "nivell": "28"
+                        }
+                    ]
+                },
+                {
+                    "id": "00147",
+                    "nom": "Dratini",
+                    "tipus": "dragón",
+                    "pes": "3.3 kg",
+                    "altura": "1,8m",
+                    "estadistiques": 
+                    {
+                        "velocitat": 5,
+                        "fortalesa": 3,
+                        "precisió": 3,
+                        "resistència": 4
+                    },
+                    "moviments":
+                    [
+                        {
+                            "nom": "Onda trueno",
+                            "descripció": "movimiento de tipo elèctrico",
+                            "potència": null,
+                            "contacte": "no"
+                        },
+                        {
+                            "nom": "Cola dragón",
+                            "descripció": "movimiento de tipo dragón",
+                            "potència": 60,
+                            "contacte": "sí" 
+                        },
+                        {
+                            "nom": "Vuelo sagrado",
+                            "descripció": "movimiento de tipo normal",
+                            "potència": null,
+                            "contacte": "no"
+                        }
+                    ],
+                    "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/9/99/latest/20230717180423/Dratini.png",
+                    "evolucions":
+                    [
+                        {
+                            "id": "0148",
+                            "nom": "Dragonair",
+                            "nivell": "30"
+                        },
+                        {
+                            "id": "0149",
+                            "nom": "Dragonite",
+                            "nivell": "55"
+                        }
+                    ]
+                }
+            ]
+    }
+}

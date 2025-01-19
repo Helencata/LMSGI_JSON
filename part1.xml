@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- etiqueta botiga -->
+<botiga>
+    <!-- etiqueta productes en general -->
+    <productes>
+        <!-- etiqueta producte individual -->
+    <producte codi="1">
+        <nom>Televisió</nom>
+        <descripcio>Smart tv led de 32 pulgades amb resolució HD, control per veu, apps com Netflix i Youtube i conectivitat completa (HDMI, USB, Wifi, Bluetooth).</descripcio>
+        <preu>550,90€</preu>
+        <categoria>Electrónica</categoria>
+        <disponibilitat>en estoc</disponibilitat>
+        <imatge>https://m.media-amazon.com/images/I/71Rr++LrzoL._AC_SL1500_.jpg</imatge>
+    </producte>
+    <producte codi="2">
+        <nom>Portátil</nom>
+        <descripcio>Portàtil lleuger i compacte amb processador Intel Core i3, 8GB de RAM i 512GB d'emmagatzematge. </descripcio>
+        <preu>439,90</preu>
+        <categoria>Electrónica</categoria>
+        <disponibilitat>en estoc</disponibilitat>
+        <imatge>https://m.media-amazon.com/images/I/61k6JVxHJhL.__AC_SX300_SY300_QL70_ML2_.jpg</imatge>
+    </producte>
+    </productes>
+</botiga>
